@@ -11,5 +11,6 @@ namespace AspNetCoreCodeFirst.Models
         public string BookName { get; set; }
         public string AuthorName { get; set; }
         public double price { get; set; }
+        public string language { get; set; }
     }
 }
